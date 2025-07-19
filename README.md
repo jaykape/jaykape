@@ -5,4 +5,4 @@ Whether it's deploying systems, debugging weird errors, or hacking together side
 
 <img src="./kirbynyandash.gif" width="20%"/> <br />
  
-Always experimenting, always learning.
+Always experimenting, always learning. 🧪
